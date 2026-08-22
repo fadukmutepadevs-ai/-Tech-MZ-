@@ -1,0 +1,6 @@
+{
+  "name": "Tech MZ",
+  "description": "Plataforma simples, leve e rápida de informações sobre tecnologia, celulares, IA e tutoriais para Moçambique e África lusófona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

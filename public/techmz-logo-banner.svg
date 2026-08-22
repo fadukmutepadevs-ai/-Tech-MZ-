@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <!-- Dark navy background matching the exact image -->
+  <rect width="280" height="80" rx="12" fill="#0B132B" />
+  
+  <!-- Light blue icon square with rounded corners -->
+  <rect x="16" y="16" width="48" height="48" rx="10" fill="#00A8FF" />
+  
+  <!-- White capital "T" inside icon -->
+  <text x="40" y="50" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="900" text-anchor="middle">T</text>
+  
+  <!-- Brand text: "Tech MZ" -->
+  <text x="76" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5">
+    <tspan fill="#FFFFFF">Tech </tspan>
+    <tspan fill="#00A8FF">MZ</tspan>
+  </text>
+  
+  <!-- Subtitle: "Tecnologia Acessível" -->
+  <text x="76" y="62" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2">Tecnologia Acessível</text>
+</svg>
